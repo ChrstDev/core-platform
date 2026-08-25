@@ -132,12 +132,12 @@ export function LoginPage() {
               </Button>
             </form>
 
-            <p className="mt-8 text-left text-sm text-[#5a5f60]">
+            {/*<p className="mt-8 text-left text-sm text-[#5a5f60]">
               No tenes cuenta?{' '}
               <Link to="/register" className="text-blue-700 hover:underline">
                 Registrate
               </Link>
-            </p>
+            </p>*/}
           </div>
         </div>
       </section>
