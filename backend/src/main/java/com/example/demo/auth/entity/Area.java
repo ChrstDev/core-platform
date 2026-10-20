@@ -1,0 +1,4 @@
+package com.example.demo.auth.entity;
+
+public class Area {
+}

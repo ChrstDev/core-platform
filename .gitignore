@@ -10,3 +10,6 @@ backend/src/main/resources/application-local.properties
 .vscode/*
 !.vscode/extensions.json
 *.iml
+
+# Docker datos locales
+mysql_data/
